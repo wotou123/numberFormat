@@ -1,0 +1,21 @@
+{
+    "name": "self/number-format",
+    "description": "处理数字字节的类包",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "authors": [
+        {
+            "name": "e",
+            "email": "22222222@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "numberFormat\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
