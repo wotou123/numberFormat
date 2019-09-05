@@ -1,5 +1,5 @@
 {
-    "name": "self/number-format",
+    "name": "number-form-byte/number-format",
     "description": "处理数字字节的类包",
     "type": "library",
     "minimum-stability": "stable",
